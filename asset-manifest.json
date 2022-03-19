@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/one-page/static/css/main.35f4ce2c.css",
+    "main.js": "/one-page/static/js/main.bffe511c.js",
+    "static/js/787.4694560f.chunk.js": "/one-page/static/js/787.4694560f.chunk.js",
+    "static/media/banana.jpg": "/one-page/static/media/banana.97458e4e1211a6a07882.jpg",
+    "static/media/blueberry.jpg": "/one-page/static/media/blueberry.63a39f1c2f0d1bd21384.jpg",
+    "static/media/pom.jpg": "/one-page/static/media/pom.221fb4068b0efc4aef4b.jpg",
+    "static/media/brownie.jpeg": "/one-page/static/media/brownie.b4f4b50b32903f35bac9.jpeg",
+    "static/media/bread.jpg": "/one-page/static/media/bread.e83531b9ddfe8103f119.jpg",
+    "static/media/Cucumber.jpg": "/one-page/static/media/Cucumber.0aa940b7d21fddd7bc80.jpg",
+    "static/media/blissballs.jpg": "/one-page/static/media/blissballs.711bccfeffae1d6e71f2.jpg",
+    "static/media/cake.jpeg": "/one-page/static/media/cake.48ef4bbd2cc087153219.jpeg",
+    "static/media/mango.jpg": "/one-page/static/media/mango.28fb3de3892093fdfc58.jpg",
+    "static/media/muffin.jpg": "/one-page/static/media/muffin.a293908e95a36ab41e8a.jpg",
+    "static/media/popcorn.jpg": "/one-page/static/media/popcorn.641f8d37a472178d9ba7.jpg",
+    "static/media/Strawberry-Smoothie.jpg": "/one-page/static/media/Strawberry-Smoothie.1095148a8d9008b98358.jpg",
+    "index.html": "/one-page/index.html",
+    "main.35f4ce2c.css.map": "/one-page/static/css/main.35f4ce2c.css.map",
+    "main.bffe511c.js.map": "/one-page/static/js/main.bffe511c.js.map",
+    "787.4694560f.chunk.js.map": "/one-page/static/js/787.4694560f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35f4ce2c.css",
+    "static/js/main.bffe511c.js"
+  ]
+}
